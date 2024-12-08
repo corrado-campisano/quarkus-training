@@ -1,5 +1,5 @@
 
-# General training README
+# Quarkus Training README
 
  - All folders represent one training step as from the training here:
 https://www.html.it/pag/401198/introduzione-a-quarkus/
@@ -8,7 +8,20 @@ https://www.html.it/pag/401198/introduzione-a-quarkus/
 see what it means below
 
 
+### List of implemented tutorials
+
+From the various tutorials, several eclipse quarkus sub-projects are implemented:
+
+ - test-quarkus-1 (hello world) https://www.html.it/pag/401657/quarkus-prima-applicazione/
+ - test-quarkus-2 (spring support) https://www.html.it/pag/401961/supporto-spring-in-quarkus/
+ - test-quarkus-3 (spring data mysql) https://www.html.it/pag/402120/supporto-spring-in-quarkus-spring-data/
+ - test-quarkus-4 ...
+ - test-quarkus-5 ...
+ - test-quarkus-6 ...
+ 
+
 ### Using Eclipse with Quarkus
+
 
 ##### Generating a quarkus project
 
