@@ -39,3 +39,13 @@ This file belong to the root folder "Quarkus Training", as all the test (sub-)pr
 
 The "container project" has been generated AFTER the first quarkus project (test-quarkus-1), without referencing that one, just containing it on the file system.
 
+
+##### Adding other sub-projects generated from code.quarkus.io
+
+Unzip the downloaded zip quarkus project (for example into folder test-quarkus-2) 
+INSIDE the main "quarkus training" folder (and Eclipse project).
+
+Copy the ".settings" folder and the ".classpath" and ".project" files,
+rename the project inside the ".project" file and finally import the project,
+as a generic eclipse project, into the container eclipse project (main "quarkus training").
+
