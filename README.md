@@ -15,10 +15,10 @@ From the various tutorials, several eclipse quarkus sub-projects are implemented
  - test-quarkus-1 (hello world) https://www.html.it/pag/401657/quarkus-prima-applicazione/
  - test-quarkus-2 (spring support) https://www.html.it/pag/401961/supporto-spring-in-quarkus/
  - test-quarkus-3 (spring data mysql) https://www.html.it/pag/402120/supporto-spring-in-quarkus-spring-data/
- - test-quarkus-4 ...
- - test-quarkus-5 ...
- - test-quarkus-6 ...
- 
+ - test-quarkus-4 (microservices) https://www.html.it/pag/402272/microservizi-in-quarkus-prima-applicazione/
+ - test-quarkus-5 (application.properties) https://www.html.it/pag/402650/microservizi-in-quarkus-configurazione-di-base/
+ - test-quarkus-6 (auths with JWT) https://www.html.it/pag/402872/microservizi-in-quarkus-autenticazione/
+
 
 ### Using Eclipse with Quarkus
 
